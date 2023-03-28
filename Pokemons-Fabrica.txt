@@ -1,0 +1,18 @@
+charmander:{
+	id:{1}
+	ability:{"blazer", "solar-power"}
+	type:{"fire"}
+	evolution:{"charmeleon", "charizard"}	
+}
+rattata:{
+	id{19}
+	ability:{"guts", "run-away"}
+	type:{"normal"}
+	evolution{"raticate[20]"}
+}
+Squirtle:{
+	id:{7}
+	ability{"torrent", "rain-dish"}
+	type{"water"}
+	evolution:{ "wartortle[8]", "blastoise[9]"}
+}
